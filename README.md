@@ -30,7 +30,7 @@ A lightweight, dynamic tiling window manager for Windows, built entirely in C++ 
 ## Screenshot
 
 ![alt text](screenshot.png)
-![alt text](screenshot1.png)
+![alt text](screenshot2.png)
 
 ## License
 
