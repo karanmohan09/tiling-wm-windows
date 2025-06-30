@@ -1,0 +1,2 @@
+master_ratio=0.6
+log_enabled=true

@@ -1,0 +1,14 @@
+*.exe
+*.obj
+*.o
+*.log
+*.dll
+*.pdb
+*.idb
+.vscode/
+*.~*
+*~
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
